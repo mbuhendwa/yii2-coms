@@ -1,0 +1,11 @@
+.small-box{
+   height: 100px;
+   width: 200px;
+   padding-top: 10px;
+}
+.row{
+    height: 100px;
+    width: 100%;
+    background-color: 0;
+    padding-top: 10px;
+}
